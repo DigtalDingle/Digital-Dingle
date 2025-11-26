@@ -1,9 +1,3 @@
-# Digital-Dingle  
-Yes, I accidentally misspelled my own handle. No, I'm not fixing it.  
-It adds… **character.**
-
----
-
 ## 💻 Joshua “Digital-Dingle” Berry
 Crew Chief Land Surveyor by day — part-time developer by night.  
 Learning fast. Building real things.  
